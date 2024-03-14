@@ -1,0 +1,3 @@
+C:/Users/NITRO 5/Documents/Ceti/2do Semestre/PrograObjetos/Parcial1Progra/2P-RPG-main/cmake-build-debug/CMakeFiles/rpg.dir
+C:/Users/NITRO 5/Documents/Ceti/2do Semestre/PrograObjetos/Parcial1Progra/2P-RPG-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NITRO 5/Documents/Ceti/2do Semestre/PrograObjetos/Parcial1Progra/2P-RPG-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
